@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(bird.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+div{ 
+    background-color: rgba(229, 240, 230, 0.402);
+    width: 200px;
+    border: 1px solid;
+    padding: 50px;
+    margin: 200px;
+
+}
